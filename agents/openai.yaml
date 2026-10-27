@@ -1,0 +1,6 @@
+interface:
+  display_name: "八字与星盘（高级输出版）"
+  short_description: "个人盘、事件盘和关系盘的精确计算与证据链输出"
+  default_prompt: "使用 $advanced-astrology-cn 先判断个人或关系模式，再按原版流程精确排盘并给出详细证据链分析。"
+policy:
+  allow_implicit_invocation: true

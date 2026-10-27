@@ -1,0 +1,7 @@
+numpy>=1.26
+lunar-python
+timezonefinder
+geopy
+geonamescache
+pytz
+pyswisseph
